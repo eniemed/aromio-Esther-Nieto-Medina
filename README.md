@@ -6,17 +6,14 @@
 
 ### Índice
 
-<li> Introducción y desarrollo de ideas y tecnologías.
+<li> Introducción.
 <li> Descripción del resultado.
 <li> Instalación y preparación necesaria.
-<li> Guía de estilos y prototipado.
 <li> Diseño.
 <li> Secuencia de desarrollo.
-<li> Pruebas (endpoints)
 <li> Despliegue.
 <li> Manual de la aplicación.
 <li> Conclusiones
-<li> Bibliografía y referencias.
 
 # 1. INTRODUCCIÓN
 
