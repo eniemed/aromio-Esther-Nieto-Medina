@@ -87,11 +87,11 @@ Luego instalé laravel por separado y desde phpmyadmin introduje un script para 
 
 Aquí está la guía de estilos que he entregado para la asignatura de diseño:
 
-<img src="../aromio_eniemed/src/assets/guia-estilos.png" alt="Guía de estilos - Esther Nieto Medina" />
+<img src="/src/assets/guia-estilos.png" alt="Guía de estilos - Esther Nieto Medina" />
 
 Y aquí una captura del prototipado:
 
-<img src="../aromio_eniemed/src/assets/prototipado.png" alt="Prototipado - Esther Nieto Medina" />
+<img src="/src/assets/prototipado.png" alt="Prototipado - Esther Nieto Medina" />
 
 ---
 <br>
@@ -104,55 +104,55 @@ Para la realización del diseño me dejé llevar por mis preferencias personales
 
 <li>Página de inicio
 
-<img src="../aromio_eniemed/src/assets/INICIO.png" alt="Inicio" />
+<img src="/src/assets/INICIO.png" alt="Inicio" />
 
 ---
 
 <li> Página de tienda
 
-<img src="../aromio_eniemed/src/assets/shop.png" alt="Tienda" />
+<img src="/src/assets/shop.png" alt="Tienda" />
 
 ---
 
 <li> Página de wishlist
 
-<img src="../aromio_eniemed/src/assets/wishlist.png" alt="Wishlist" />
+<img src="/src/assets/wishlist.png" alt="Wishlist" />
 
 ---
 
 <li> Página individual de producto
 
-<img src="../aromio_eniemed/src/assets/producto-individual3.png" alt="Página de producto individual" />
+<img src="/src/assets/producto-individual3.png" alt="Página de producto individual" />
 
 ---
 
 <li> Página de contacto
 
-<img src="../aromio_eniemed/src/assets/contact.png" alt="Contacto" />
+<img src="/src/assets/contact.png" alt="Contacto" />
 
 ---
 
 <li> Página de inicio de sesión
 
-<img src="../aromio_eniemed/src/assets/login.png" alt="Login" />
+<img src="/src/assets/login.png" alt="Login" />
 
 ---
 
 <li> Página de registro
 
-<img src="../aromio_eniemed/src/assets/sign up.png" alt="Registro" />
+<img src="/src/assets/sign up.png" alt="Registro" />
 
 ---
 
 <li> Página de perfil de usuario
 
-<img src="../aromio_eniemed/src/assets/profile.png" alt="Perfil de usuario" />
+<img src="/src/assets/profile.png" alt="Perfil de usuario" />
 
 ---
 
 <li> Página de error 404
 
-<img src="../aromio_eniemed/src/assets/error page.png" alt="Página de error" />
+<img src="/src/assets/error page.png" alt="Página de error" />
 
 ---
 <br>
@@ -177,17 +177,17 @@ Para finalizar con este punto, quiero señalar que la tecnología de control de 
 Tras consultar con nuestro profesor de DWES, nos ha comentado que las pruebas para la api que podíamos realizar no eran otras que los endpoints en plataformas como insomnia, así que eso es lo que he hecho. Adjunto capturas de los endpoints de algunas de las llamadas a la api:
 
 <li> Llamada a productos (todos los productos)
-<img src="../aromio_eniemed/src/assets/products.png" alt="Endpoint de todos los productos" />
+<img src="/src/assets/products.png" alt="Endpoint de todos los productos" />
 
 <br>
 
 <li> Llamada a un producto por id
-<img src="../aromio_eniemed/src/assets/id.png" alt="Endpoint de productos por id" />
+<img src="/src/assets/id.png" alt="Endpoint de productos por id" />
 
 <br>
 
 <li> Llamada a users (todos los usuarios registrados)
-<img src="../aromio_eniemed/src/assets/users.png" alt="Endpoint de users" />
+<img src="/src/assets/users.png" alt="Endpoint de users" />
 
 
 ---
