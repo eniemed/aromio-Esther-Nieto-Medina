@@ -2,6 +2,10 @@
 
 *Nota: Una documentación mucho más detallada se puede encontrar en este repositorio en esta misma ruta del proyecto, llamado Documentación-EstherNietoMedina.md*
 
+Enlace al vídeo explicativo:
+
+<a href="https://drive.google.com/file/d/1z2otiqfDFu0NWBz9G_DYjTqcklU-UqmK/view?usp=sharing">Enlace</a>
+
 <img src="/src/assets/Portada.png" />
 
 ### Índice
