@@ -3,6 +3,7 @@
 *Nota: Una documentación mucho más detallada se puede encontrar en este repositorio en esta misma ruta del proyecto, llamado Documentación-EstherNietoMedina.md*
 
 <img src="/src/assets/Portada.png" />
+
 ### Índice
 
 <li> Introducción y desarrollo de ideas y tecnologías.
