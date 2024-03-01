@@ -110,49 +110,49 @@ Para la realización del diseño me dejé llevar por mis preferencias personales
 
 <li> Página de tienda
 
-<img src="/src/assets/shop.png" alt="Tienda" />
+<img src="/src/assets/SHOP.png" alt="Tienda" />
 
 ---
 
 <li> Página de wishlist
 
-<img src="/src/assets/wishlist.png" alt="Wishlist" />
+<img src="/src/assets/WISHLIST.png" alt="Wishlist" />
 
 ---
 
 <li> Página individual de producto
 
-<img src="/src/assets/producto-individual3.png" alt="Página de producto individual" />
+<img src="/src/assets/PRODUCTO-INDIVIDUAL3.png" alt="Página de producto individual" />
 
 ---
 
 <li> Página de contacto
 
-<img src="/src/assets/contact.png" alt="Contacto" />
+<img src="/src/assets/CONTACT.png" alt="Contacto" />
 
 ---
 
 <li> Página de inicio de sesión
 
-<img src="/src/assets/login.png" alt="Login" />
+<img src="/src/assets/LOGIN.png" alt="Login" />
 
 ---
 
 <li> Página de registro
 
-<img src="/src/assets/sign up.png" alt="Registro" />
+<img src="/src/assets/SIGN UP.png" alt="Registro" />
 
 ---
 
 <li> Página de perfil de usuario
 
-<img src="/src/assets/profile.png" alt="Perfil de usuario" />
+<img src="/src/assets/PROFILE.png" alt="Perfil de usuario" />
 
 ---
 
 <li> Página de error 404
 
-<img src="/src/assets/error page.png" alt="Página de error" />
+<img src="/src/assets/ERROR PAGE.png" alt="Página de error" />
 
 ---
 <br>
