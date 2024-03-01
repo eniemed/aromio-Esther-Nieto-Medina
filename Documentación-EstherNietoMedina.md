@@ -1,6 +1,6 @@
 ## Esther Nieto Medina - 2º DAW
 
-<img src="../aromio_eniemed/src/assets/Portada.png" alt="Portada de proyecto final de Esther Nieto Medina">
+<img src="/src/assets/Portada.png" alt="Portada de proyecto final de Esther Nieto Medina">
 
 ---
 
